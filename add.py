@@ -1,2 +1,2 @@
 def add(number1: float, number2: float) -> float:
-    pass
+    return number1 + number2
