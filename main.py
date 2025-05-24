@@ -7,10 +7,10 @@ from res import res
 """
 Tiene los siguientes módulos:
 
-- mul(number1, number2) 
-- add(number1, number2)
-- diff(number1, number2)
-- div(number1, number2)
+- mul(number1, number2) Jhoel
+- add(number1, number2) Amilcar
+- diff(number1, number2) Jhon
+- div(number1, number2) César
 
 Quiero que implementen cada uno de los módulos
 y en el main añadir una pequeña interfaz
