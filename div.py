@@ -1,3 +1,5 @@
+# Prueba para no malograr el git
+
 def div(number1: float, number2: float) -> float:
     if number2 == 0:
         raise ValueError("No se puede dividir por cero.")
